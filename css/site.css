@@ -1,7 +1,7 @@
-correct {
+.correct {
     color: green;
 }
 
-incorrect {
+.incorrect {
     color: red;
 }
